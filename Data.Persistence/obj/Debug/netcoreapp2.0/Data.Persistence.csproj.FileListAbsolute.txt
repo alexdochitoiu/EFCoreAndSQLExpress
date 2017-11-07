@@ -1,0 +1,11 @@
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.deps.json
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Persistence.pdb
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csproj.CoreCompileInputs.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfoInputs.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.AssemblyInfo.cs
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.pdb
+C:\Users\Alex Dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\obj\Debug\netcoreapp2.0\Data.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Alex Dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Domain.dll
+C:\Users\Alex Dochitoiu\source\repos\Lab6_EFCore\Data.Persistence\bin\Debug\netcoreapp2.0\Data.Domain.pdb

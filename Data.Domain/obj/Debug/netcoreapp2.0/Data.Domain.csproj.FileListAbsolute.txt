@@ -1,0 +1,9 @@
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.deps.json
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Domain\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csproj.CoreCompileInputs.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfoInputs.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.AssemblyInfo.cs
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.pdb
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Data.Domain\obj\Debug\netcoreapp2.0\Data.Domain.csprojResolveAssemblyReference.cache

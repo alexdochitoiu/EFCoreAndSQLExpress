@@ -1,0 +1,17 @@
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.deps.json
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.json
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.runtimeconfig.dev.json
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Presentation.pdb
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csprojResolveAssemblyReference.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.csproj.CoreCompileInputs.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfoInputs.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.AssemblyInfo.cs
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\obj\Debug\netcoreapp2.0\Presentation.pdb
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Business.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Business.pdb
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Domain.pdb
+C:\Users\Alex Dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.dll
+C:\Users\Alex Dochitoiu\source\repos\Lab6_EFCore\Presentation\bin\Debug\netcoreapp2.0\Data.Persistence.pdb

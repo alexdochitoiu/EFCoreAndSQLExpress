@@ -1,0 +1,14 @@
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.deps.json
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.json
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.runtimeconfig.dev.json
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\bin\Debug\netcoreapp2.0\UnitTests.pdb
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csprojResolveAssemblyReference.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.csproj.CoreCompileInputs.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfoInputs.cache
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.AssemblyInfo.cs
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.dll
+c:\users\alex dochitoiu\source\repos\Lab6_EFCore\UnitTests\obj\Debug\netcoreapp2.0\UnitTests.pdb
